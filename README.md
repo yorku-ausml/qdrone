@@ -2,7 +2,9 @@
 Making a Quality-driven Autonomous Navigation Module for Vertical Asset Inspection Using a Drone
 
 ## News
-* aaa
+* Video for IROS 2020
+  - [AA](https://youtu.be/y-s3sQYWZY8)
+  - [AA](https://youtu.be/BHdCxzn9JAs)
  
 
 ## Go to [Wiki page](https://github.com/yorku-ausml/vai_uav/wiki)
