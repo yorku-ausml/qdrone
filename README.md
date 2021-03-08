@@ -10,6 +10,11 @@ Making a Quality-driven Autonomous Navigation Module for Vertical Asset Inspecti
   - [Full version (describing tests on all sets)](https://youtu.be/BHdCxzn9JAs)
 <br/>
 
+* **Opened benchmark for UWB-based localization**
+  - Title: Benchmark Dataset of Ultra-wideband Radio based UAV Positioning (ITSC 2020)
+  - https://benchmark.qdrone.ausmlab.com/
+<br/>
+
 
 ## Go to [Wiki page](https://github.com/yorku-ausml/vai_uav/wiki)
 
